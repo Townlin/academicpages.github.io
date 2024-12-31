@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历 CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, XX University, 20XX (expected)
+* M.S. in Physics, XX University, 20XX (expected)
+* B.S. in Physics, Peking University, 2027 (expected)
+* 2023年毕业于安阳市第一中学
+* 2020年毕业于安阳市第八中学
+* 2017年毕业于安阳市三官庙小学
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Researcher
+  * Peking University
+  * Duties includes: Experiments and theory research
+  * Supervisor: Xiaoji Zhou (Peking University)
   
 Skills
 ======
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to XX different slack teams
