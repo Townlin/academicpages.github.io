@@ -11,8 +11,8 @@ main:
   - title: "讨论 Talks"
     url: /talks/    
 
-  - title: "授课 Teaching"
-    url: /teaching/    
+ # - title: "授课 Teaching"
+ #   url: /teaching/    
     
   - title: "文件夹 Portfolio"
     url: /portfolio/
