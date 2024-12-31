@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 我是北京大学物理学院2023级本科生，我的研究兴趣包括量子计算，量子模拟。
+
 I'm an undergrduate student from School of Physics, Peking University. My research interest includes quantum computation and quantum simulation( especially the physical realization of quantum computation).
 
 A data-driven personal website
