@@ -11,16 +11,23 @@ redirect_from:
 
 I'm an undergrduate student from School of Physics, Peking University. My research interest includes quantum computation and quantum simulation( especially the physical realization of quantum computation).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+一个正在搭建的个人学术主页 A self scholar-page in building
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+我在2024年12月31日突然想到要做一个自己的主页，于是马上着手，fork自GitHub上academicpage的仓库。
+
+It occured to me that I wanted to build my own scholar-page on December 31, 2024, so I took action right away. This page is forked from academicpage on GitHub.
+
+
+这里有什么 What's here
+======
+1. 由于这个网页才刚刚起步，里面没有太多内容，我会不断在网页上更新内容，来让页面更加充实。
+
+   Now that this page is on halfway, there's not much content. I will continuously upload to enrich it.
+2. 因为我暂时没时间去学习更多的网页技术，所以我没办法给主页加上中英文切换的功能，就只好手动给每条信息都列上中英文（虽然这样看上去非常愚蠢），并且由于我的英语水平有限，很可能充斥着语法错误。
+
+   For reason that I don't have enough time to master more web technology, I can't add language switch function on homepage. So I have to manually list both Chinese and English (though reaaly stupid), and due to my poor English level, it could be filled with grammar mistakes.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
