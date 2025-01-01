@@ -32,16 +32,17 @@ It occured to me that I wanted to build my own scholar-page on December 31, 2024
 
    I still don't have any published paper or book, if I do in the future, I will update them in Publications Column.
 4. 讨论栏目里罗列的是我的组会或讨论课幻灯片/文档，点进去以后有下载链接。
+   
    Talks Column contains slides of my conference or talk-class, you can get a download link after click in.
-5. 我还没有想好文件夹放些什么东西，可能会变成我的云文件夹吧。
+6. 我还没有想好文件夹放些什么东西，可能会变成我的云文件夹吧。
 
    I don't have any idea what to store in Portfolio Column, maybe it will become my next iCloud.
-6. 我不知道大家都拿博客发些什么，可能我会发一些碎碎念，日常之类的东西，纯当做记事本了。
+7. 我不知道大家都拿博客发些什么，可能我会发一些碎碎念，日常之类的东西，纯当做记事本了。
 
    I don't how others take Blog Posts, I would post some chattering, something concerned with my everyday life. Just a notebook.
-7. 简历还在不断更新，目前只是个模版罢了。
+8. 简历还在不断更新，目前只是个模版罢了。
 
    CV is still on its way, it's only a template now.
-8. 导览是给我看的。
+9. 导览是给我看的。
 
    The Guide Column is for me.
