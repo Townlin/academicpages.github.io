@@ -1,6 +1,5 @@
 ---
 title: "彭湃老师给的三篇文章"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
