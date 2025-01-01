@@ -1,6 +1,6 @@
 ---
 title: "彭湃老师给的三篇文章"
-三篇分别是PRL,Nature和Science的论文。
+excerpt: 三篇分别是PRL,Nature和Science的论文。
 collection: portfolio
 ---
 
